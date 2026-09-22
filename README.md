@@ -13,7 +13,7 @@ optimization, and a deployed **Streamlit** app for interactive predictions.
 
 | | |
 |---|---|
-| **Problem type** | Binary classification (imbalanced target) |
+| **Problem type of my project** | Binary classification (imbalanced target) |
 | **Target** | `not.fully.paid` |
 | **Models compared** | Logistic Regression, Decision Tree, Random Forest, Gradient Boosting |
 | **Final model** | Random Forest, tuned via `GridSearchCV` (5-fold stratified CV) |
