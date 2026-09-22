@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data & model artifacts (keep the repo lightweight — see README on hosting these)
+*.pkl
+*.csv
+!sample_data.csv
+
+# OS/editor
+.DS_Store
+.vscode/
